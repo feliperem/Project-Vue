@@ -1,5 +1,5 @@
  applications:
- - name: vue-tutorial
+ - name: simple-toolchain-20200920043044022
      path: ./dist
      buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
      random-route: true
